@@ -16,3 +16,9 @@ Alvin_and_the_chipmunks = {
   chipmunck_3: ["Theodore"],
 }
 
+third_earthers = {
+  name_1: ["Lion-O"],
+  name_2: ["Cheetara"],
+  name_3: ["Mumm-Ra"],
+}
+
